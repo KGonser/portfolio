@@ -4,7 +4,7 @@
 
 ## American Medical Response
 
-New York State Paramedic
+(New York State Paramedic)
 
 September 2015 - Present
 
@@ -17,7 +17,7 @@ support and emergency scene command.
 
 ## Catholic Health - Kenmore Mercy ER
 
-New York State Paramedic
+(New York State Paramedic)
 
 February 2022 - August 2023
 
