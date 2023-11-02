@@ -39,21 +39,23 @@ horizontal lathes.
 
 ## Buffalo State University / Dual Major
 
-### Computer Information Systems B.S. & Industrial Technology B.S.
+Computer Information Systems B.S.
+
+Industrial Technology B.S.
 
 ## Erie Community College
 
-### Industrial Technology A.O.S.
+Industrial Technology A.O.S.
 
 
 
 # Awards / Organizations
 
--Dean's list recipient
--National Technical Honor Society
--First Robotics
--Manufacturing concentration
--INC.ubator graduate
+- Dean's list recipient
+- National Technical Honor Society
+- First Robotics
+- Manufacturing concentration
+- INC.ubator graduate
 
 
 
